@@ -64,7 +64,7 @@ Clica nas cores da tela com o touch.
 
 ## Rodando o projeto 🚴🏻‍♂️
 #### "Só vou dar uma olhadinha...":
-  <a href="https://">🔴🟢 Site hospedado na Vercel 🟡🔵</a>
+  <a href="https://genius-memory-game.vercel.app/">🔴🟢 Site hospedado na Vercel 🟡🔵</a>
 
 #### Na sua maquina:
 
