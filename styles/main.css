@@ -19,5 +19,6 @@
     --black: #000;
 }
 body {
+    /*background-color: var(--white);*/
     background: linear-gradient(329.54deg, var(--background) 0%, var(--white) 100%) no-repeat;
 }

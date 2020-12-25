@@ -13,8 +13,8 @@
     height: 20rem;
     min-width: 20rem;
 
-    background-color: #fff;
-    border: 5px solid #fff;
+    background-color: var(--black);
+    border: 5px solid var(--black);
     border-radius: 100%;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
