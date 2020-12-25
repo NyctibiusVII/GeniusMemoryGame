@@ -5,6 +5,12 @@
         min-width: 30rem;
     }
 }
+@media (min-width: 650px) {
+    .main-game div.genius {
+        height: 40rem;
+        min-width: 40rem;
+    }
+}
 /* Desktop version */
 @media (min-width: 800px) {
     .main-game div.genius {

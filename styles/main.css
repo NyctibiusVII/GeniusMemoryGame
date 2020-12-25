@@ -7,12 +7,17 @@
     font-size: 62.5%;
 
     --background: #dddddd;
+    --background-altP: #ff7a7a;
+    --background-altS: #7c8cff;
 
     --main-red: #ff3b3b;
     --main-green: #57ec39;
     --main-yellow: #fcff39;
     --main-blue: #1d34ff;
+
+    --white: #fff;
+    --black: #000;
 }
 body {
-    background-color: var(--background);
+    background: linear-gradient(329.54deg, var(--background) 0%, var(--white) 100%) no-repeat;
 }

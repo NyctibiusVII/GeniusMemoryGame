@@ -28,17 +28,19 @@ let shuffleOrder = () => {
 
 
 
-// Acende a proxima cor
+// Acende a proxima cor (pisca)
 let lightColor = (element, number) => {
     number *= 500;
     setTimeout(() => {
         element.classList.add('selected');
+        setTimeout(() => {
+            element.classList.remove('selected');
+        }, 300);
     }, number - 250);
     setTimeout(() => {
         element.classList.remove('selected');
     });
 }
-
 
 
 // Checa se os botões clicados são os mesmos gerados
