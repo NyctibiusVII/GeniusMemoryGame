@@ -1,0 +1,14 @@
+/* Tablet version */
+@media (min-width: 500px) {
+    .main-game div.genius {
+        height: 30rem;
+        min-width: 30rem;
+    }
+}
+/* Desktop version */
+@media (min-width: 800px) {
+    .main-game div.genius {
+        height: 60rem;
+        min-width: 60rem;
+    }
+}
