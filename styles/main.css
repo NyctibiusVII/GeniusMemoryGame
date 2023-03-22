@@ -6,19 +6,22 @@
 :root {
     font-size: 62.5%;
 
-    --background: #dddddd;
+    --background: #fff7b8;
+    --background-s: #74c2cb;
     --background-altP: #ff7a7a;
     --background-altS: #7c8cff;
 
-    --main-red: #ff3b3b;
-    --main-green: #57ec39;
-    --main-yellow: #fcff39;
-    --main-blue: #1d34ff;
+    --genius-bg: #fff;
+
+    --main-red: #ff4444;
+    --main-green: #4fff6e;
+    --main-yellow: #fdff66;
+    --main-blue: #4557fb;
 
     --white: #fff;
     --black: #000;
 }
 body {
     /*background-color: var(--white);*/
-    background: linear-gradient(329.54deg, var(--background) 0%, var(--white) 100%) no-repeat;
+    background: linear-gradient(329.54deg, var(--background) 0%, var(--background-s) 100%) no-repeat;
 }
